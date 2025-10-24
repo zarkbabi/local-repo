@@ -1,4 +1,4 @@
 # git-demo
-my first git repository.
+this is my local repo.
 <br>
 author:zark babi(14).
